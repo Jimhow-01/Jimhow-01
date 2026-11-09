@@ -5,17 +5,17 @@
 **DevOps · Segurança de TI · Analista de TI · IA Aplicada · UI/UX**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-araujo-gon%C3%A7alves)
-[![E-mail](https://img.shields.io/badge/E-mail-0078D4?logo=gmail&logoColor=white)](mailto:dejobvtag@hotmail.com)
+[![E-mail](https://img.shields.io/badge/E-mail-0078D4?logo=gmail&logoColor=white)](mailto:vitoraraujogoncalves@hotmail.com)
 [![Porto Alegre](https://img.shields.io/badge/Porto%20Alegre%2C%20BR-2EA043?logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/search?query=Porto%20Alegre)
 
 ---
 
 ## Estatísticas do portfólio
 
-![Repositórios](https://img.shields.io/badge/reposit%C3%B3rios-6-2f81f7)
-![Linhas de Python](https://img.shields.io/badge/linhas%20de%20Python-~17%20mil-377641)
-![Funções](https://img.shields.io/badge/fun%C3%A7%C3%B5es-~620-6C63FF)
-![Testes automatizados](https://img.shields.io/badge/testes%20automatizados-97-brightgreen?logo=pytest&logoColor=white)
+![Repositórios públicos](https://img.shields.io/badge/reposit%C3%B3rios%20p%C3%BAblicos-5-2f81f7)
+![Linhas de Python](https://img.shields.io/badge/linhas%20de%20Python-~9%20mil-377641)
+![Funções](https://img.shields.io/badge/fun%C3%A7%C3%B5es-~390-6C63FF)
+![Testes automatizados](https://img.shields.io/badge/testes%20automatizados-70-brightgreen?logo=pytest&logoColor=white)
 ![CI](https://img.shields.io/badge/CI-em%20todos%20os%20repos-559657?logo=githubactions&logoColor=white)
 ![Lint](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)
 
@@ -67,12 +67,6 @@ Este perfil reúne as **ferramentas internas que escrevi**, sanitizadas para pub
 
 Estação que se auto-endurece: BitLocker orquestrado, lock por queda de conectividade com desbloqueio HMAC-SHA256, watchdog de ativos contra cópia de conteúdo de projeto.
 
-### 🧰 [functions-backlog](https://github.com/Jimhow-01/functions-backlog)
-
-![card](assets/card-functions-backlog.png)
-
-Biblioteca de 22 módulos / ~7 mil linhas padronizando ClickUp, Jenkins, SVN, Slack, Steamworks, Maya e OAuth2+PKCE.
-
 ### 📊 [fleet-monitor](https://github.com/Jimhow-01/fleet-monitor)
 
 ![card](assets/card-fleet-monitor.png)
@@ -114,6 +108,6 @@ Alguns repositórios têm dívida técnica e limitações de segurança que decl
 Aberto a vagas de **DevOps / Infraestrutura / TI em estúdios de jogos**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-araujo-gon%C3%A7alves)
-[![E-mail](https://img.shields.io/badge/E-mail-0078D4?logo=gmail&logoColor=white)](mailto:dejobvtag@hotmail.com)
+[![E-mail](https://img.shields.io/badge/E-mail-0078D4?logo=gmail&logoColor=white)](mailto:vitoraraujogoncalves@hotmail.com)
 
 Porto Alegre, RS · disponível para trabalho remoto
