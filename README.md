@@ -12,16 +12,17 @@
 
 ## Estatísticas do portfólio
 
-![Repositórios públicos](https://img.shields.io/badge/reposit%C3%B3rios%20p%C3%BAblicos-5-2f81f7)
-![Linhas de Python](https://img.shields.io/badge/linhas%20de%20Python-~9%20mil-377641)
-![Funções](https://img.shields.io/badge/fun%C3%A7%C3%B5es-~390-6C63FF)
-![Testes automatizados](https://img.shields.io/badge/testes%20automatizados-70-brightgreen?logo=pytest&logoColor=white)
+![Repositórios públicos](https://img.shields.io/badge/reposit%C3%B3rios%20p%C3%BAblicos-6-2f81f7)
+![Linhas de Python](https://img.shields.io/badge/linhas%20de%20Python-~12%20mil-377641)
+![Funções](https://img.shields.io/badge/fun%C3%A7%C3%B5es-~550-6C63FF)
+![Testes automatizados](https://img.shields.io/badge/testes%20automatizados-161-brightgreen?logo=pytest&logoColor=white)
 ![CI](https://img.shields.io/badge/CI-em%20todos%20os%20repos-559657?logo=githubactions&logoColor=white)
 ![Lint](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)
 
 Trabalho como devops, principalmente usando Python. Nos últimos anos fui o responsável por manter estações de trabalho, builds, servidores e versionamento de estúdios funcionando — e, quando faltava ferramenta, eu construía.
 
-Este perfil reúne as **ferramentas internas que escrevi**, sanitizadas para publicação: sem credenciais, hosts internos, nomes de projeto ou dados de terceiros.
+Este perfil reúne as **ferramentas que escrevi** — internas e pessoais — sanitizadas para
+publicação: sem credenciais, hosts internos, nomes de projeto ou dados de terceiros.
 
 ---
 
@@ -91,11 +92,23 @@ Onboarding/offboarding de identidade em SVN, Slack e ClickUp a partir de um úni
 
 CSV multilíngue ↔ arquivos `.po` por idioma, com `Plural-Forms` corretos para russo e polonês.
 
+### 🎓 [uniasselvi-ava2-monitor](https://github.com/Jimhow-01/uniasselvi-ava2-monitor)
+
+![card](assets/card-uniasselvi-ava2-monitor.png)
+
+App desktop pessoal que monitora as três janelas de prazo do portal AVA2 e avisa antes de
+elas fecharem — Tkinter, senha cifrada com DPAPI, empacotado com PyInstaller, notificação em
+três camadas (toast Win11 → WinRT → popup) e SMS opcional.
+
 ---
 
 ## ⚠️ Sobre o que está aqui — e sobre titularidade
 
-São **scripts internos de TI**, não produtos. Foram sanitizados para publicação: tokens, senhas, IPs, hosts internos, nomes de projeto e dados de terceiros viraram variáveis de ambiente ou placeholders. O estúdio onde trabalhei não é nomeado de propósito.
+São **scripts internos de TI e projetos pessoais**, não produtos. Os internos foram
+sanitizados para publicação: tokens, senhas, IPs, hosts internos, nomes de projeto e dados
+de terceiros viraram variáveis de ambiente ou placeholders. O estúdio onde trabalhei não é
+nomeado de propósito. Nos projetos pessoais, dados próprios que apareciam em arquivos de
+configuração e capturas de tela também foram removidos ou redigidos.
 
 **Não estou reivindicando direitos sobre este código.** Parte dele foi produzida como funcionário, e direitos sobre trabalho de empregador pertencem ao empregador. Publico como demonstração de como resolvi os problemas — para leitura e estudo, não como software livre (sem licença concedida, ver `LICENSE` de cada repositório).
 
