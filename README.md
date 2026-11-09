@@ -15,7 +15,7 @@
 ![Repositórios](https://img.shields.io/badge/reposit%C3%B3rios-6-2f81f7)
 ![Linhas de Python](https://img.shields.io/badge/linhas%20de%20Python-~17%20mil-377641)
 ![Funções](https://img.shields.io/badge/fun%C3%A7%C3%B5es-~620-6C63FF)
-![Testes automatizados](https://img.shields.io/badge/testes%20automatizados-84-brightgreen?logo=pytest&logoColor=white)
+![Testes automatizados](https://img.shields.io/badge/testes%20automatizados-97-brightgreen?logo=pytest&logoColor=white)
 ![CI](https://img.shields.io/badge/CI-em%20todos%20os%20repos-559657?logo=githubactions&logoColor=white)
 ![Lint](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)
 
